@@ -1,0 +1,16 @@
+.navbar-nav .nav-link {
+    color: var(--secondary-color);
+}
+
+.navbar-nav .nav-link.active-link {
+    color: var(--primary-color);
+}
+
+.navbar-brand {
+    font-family: 'Unbounded', cursive;
+    color: white;
+}
+
+.navbar {
+    z-index: 9;
+}
